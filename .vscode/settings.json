@@ -1,0 +1,20 @@
+{
+  "git.ignoreLimitWarning": true,
+  "emmet.includeLanguages": {
+    "javascript":"javascriptreact"
+  },
+  "emmet.preferences": {
+    "css.webkitProperties": "border-right,animation",
+    "css.mozProperties": "",
+    "css.oProperties": null,
+    "css.msProperties": null
+  },
+  "emmet.syntaxProfiles": {
+    "html": {
+        "attr_quotes": "single"
+    },
+    "jsx": {
+        "self_closing_tag": true
+    }
+  }
+}
